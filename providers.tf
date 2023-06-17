@@ -12,10 +12,10 @@ terraform {
 #   profile                 = "vscode"
 # }
 
-provider "aws" {
-  access_key = "#yourkeys"
-  secret_key = "#yourkeys"
-  region     = "ap-south-1" # Replace with your desired AWS region
-}
+# provider "aws" {
+#   access_key = "#yourkeys"
+#   secret_key = "#yourkeys"
+#   region     = "ap-south-1" # Replace with your desired AWS region
+# }
 
 
